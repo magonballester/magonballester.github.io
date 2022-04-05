@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an ICREA Research Professort at Universitat Pompeu Fabra in Barcelona, Spain.
+I am an ICREA Research Professor at Universitat Pompeu Fabra in Barcelona, Spain.
 
 <!--
 ## Research Interests

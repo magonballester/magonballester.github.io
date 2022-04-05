@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an ICREA Research Professort at Universitat Pompeu Fabra in Barcelona, Spain.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+%%- **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News

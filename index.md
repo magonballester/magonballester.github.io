@@ -6,9 +6,10 @@ layout: homepage
 
 I am an ICREA Research Professort at Universitat Pompeu Fabra in Barcelona, Spain.
 
+<!--
 ## Research Interests
 
-%%- **Computer Vision:** image recognition, image generation, video captioning
+- **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
@@ -48,3 +49,4 @@ I am an ICREA Research Professort at Universitat Pompeu Fabra in Barcelona, Spai
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV.
+-->
